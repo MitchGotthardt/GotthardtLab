@@ -2,7 +2,7 @@
 
 This repository contains the STAR-derived counts files (*ReadsPerGene.out.tab), rMATS output files (*MATS.JC.txt), and the R scripts for differential gene expression and alternative splicing analysis. 
 
-*RNA sequencing* 
+# RNA sequencing 
 Sequencing libraries were prepared using the Illumina TruSeq Stranded protocol. Samples were sequenced using Illumina NovaSeq X Plus with around 100 million reads per sample and 150 bp single-end reads. 
 First, adapters and low-quality reads were removed using [fastp](https://github.com/OpenGene/fastp) (v0.23.2). Remaining reads were aligned to the mouse reference genome GRCm39.110 (Ensembl) using [STAR](https://github.com/alexdobin/STAR) (v2.7.8a). 
 Quality control analysis using [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) (v0.11.9) identified a high rate of duplicated reads, which were marked and removed with Picard (v2.27) and [samtools](https://github.com/samtools/samtools) (v1.19). 
