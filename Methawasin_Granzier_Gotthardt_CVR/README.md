@@ -1,16 +1,16 @@
 # Rbm20 antisense oligonucleotides alleviate diastolic dysfunction in a mouse model of cardiometabolic heart failure (HFpEF).
 
-**Authors:** 
+**Authors:**   
 Mei Methawasin1,2*, Stefan Meinke3,4, Michael H Radke3,4, Gerrie P Farman1, Zaynab Hourani1, John E. Smith III1, Wei Guo5,6, Henk Granzier1*, Michael Gotthardt3,4,7*
 
-**Affiliations:**
-1 Cellular and Molecular Medicine and Sarver Molecular Cardiovascular Research Program University of Arizona; 85724 Tucson, AZ, USA.  
-2 Medical Pharmacology and Physiology, University of Missouri; 65212 Columbia, MO, USA.
-3 Translational Cardiology and Functional Genomics, Max Delbrück Center for Molecular Medicine in the Helmholtz Association; 13125 Berlin, Germany.
-4 German Center for Cardiovascular Research (DZHK), partner site Berlin; 10785 Berlin, Germany.
-5 Department of Animal and Dairy Sciences, University of Wisconsin-Madison; Madison, WI 53706, USA.
-6 Cardiovascular Research Center, University of Wisconsin-Madison; Madison, WI 53706, USA.
-7 Department of Cardiology, Charité Universitätsmedizin Berlin; 10115 Berlin, Germany.
+**Affiliations:**  
+1 Cellular and Molecular Medicine and Sarver Molecular Cardiovascular Research Program University of Arizona; 85724 Tucson, AZ, USA.    
+2 Medical Pharmacology and Physiology, University of Missouri; 65212 Columbia, MO, USA.  
+3 Translational Cardiology and Functional Genomics, Max Delbrück Center for Molecular Medicine in the Helmholtz Association; 13125 Berlin, Germany.  
+4 German Center for Cardiovascular Research (DZHK), partner site Berlin; 10785 Berlin, Germany.  
+5 Department of Animal and Dairy Sciences, University of Wisconsin-Madison; Madison, WI 53706, USA.  
+6 Cardiovascular Research Center, University of Wisconsin-Madison; Madison, WI 53706, USA.  
+7 Department of Cardiology, Charité Universitätsmedizin Berlin; 10115 Berlin, Germany.  
 *Corresponding authors. 
 
 ## Abstract
